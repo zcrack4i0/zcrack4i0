@@ -8,9 +8,8 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering student at **Cairo University** (graduating July 2026)
-- 💼 Software Engineer at **TJM Labs** building production automation bots for pharmacy clients
-- 🤖 Building **Sawtak** an end-to-end AI voice ordering agent for Egyptian Arabic
+- 🎓 Graduated from Computer Engineering at **Cairo University** 
+- 💼 Software Engineer Lead at **TJM Labs** building production automation bots for pharmacy clients
 - 🔍 Actively looking for roles in **Automation, AI Engineering, and Backend Development**
 - 📍 Based in Cairo, Egypt, open to remote
 
